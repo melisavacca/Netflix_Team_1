@@ -24,6 +24,10 @@ We will primarily be focusing on how (and if) different factors affect how a Net
 - What tv show genres overall have the best ratings?  What movie genres overall have the best ratings?
 - Are movies or tv shows more successful on Netflix?
 - Is there a correlation with tv show and movie duration and its likeability factor? 
-- (add another questin or two here)
+- (add another question or two here)
+
+### Machnie Learning Model
+
+We have decided to use supervised learning due to our labeled dataets to help predict our outcomes accurately.  From there, we are going to be working with the random forest classifier since it is an ensemble learning model that combines multiple smaller models into a more robust and accurate model.  This method will help us make a final classification decision.  
 
 

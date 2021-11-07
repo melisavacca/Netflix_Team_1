@@ -9,6 +9,7 @@ Our team has decided to focus on Netflix TV Shows and movies, specfically, how d
 We are starting off with two different datasets that include both common and uncommon columns.  Some columns that appear on both datasets include: Title, Type (TV Show/Movie), Release Year, Cast, and Country Origin.  Netflix Data #1 has some columns that are not included in Netflix Data #2 which include: Popular Rank and Genres.  Netflix Data #2 has some columns that are not included in Netflix Data #1 which include: Director and Show ID.  One interesting column header found in both datasets is "Rating."  However, in dataset #1 this is referring to its score out of 10, while it is referring to parental guidance ratings (such as PG13) in dataset #2.  
 
 See ERD image below:
+
 ![image](https://user-images.githubusercontent.com/64279232/140628398-59b659df-ba62-499c-9745-ba3b532f7f9f.png)
 
 Preview of original Netflix dataset #1 below:

@@ -5,7 +5,7 @@
 ### Topic: Netflix TV Shows and Movies
 Our team has decided to focus on Netflix TV Shows and movies, specfically, how different variables affect ratings.  We have all really enjoyed the new shows Netflix has recently put out along with past TV shows and movies we can now watch through the application.  Since there are so many options to choose from, we were curious what factors make a TV show or movie reach high ratings and scores.  
 
-### Data: 
+### Data
 We are starting off with two different datasets that include both common and uncommon columns.  Some columns that appear on both datasets include: Title, Type (TV Show/Movie), Release Year, Cast, and Country Origin.  Netflix Data #1 has some columns that are not included in Netflix Data #2 which include: Popular Rank and Genres.  Netflix Data #2 has some columns that are not included in Netflix Data #1 which include: Director and Show ID.  One interesting column header found in both datasets is "Rating."  However, in dataset #1 this is referring to its score out of 10, while it is referring to parental guidance ratings (such as PG13) in dataset #2.  
 
 See ERD image below:

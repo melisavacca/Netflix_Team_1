@@ -32,6 +32,7 @@ We will primarily be focusing on how (and if) different factors affect how a Net
  
 We have decided to use supervised learning due to our labeled datasets and knowledge of our inputs and outputs.  The data is split into 75% training and 25% testing.  From there, we are going to be working with the random forest classifier since it is an ensemble learning model that combines multiple smaller models into a more robust and accurate model. Randrom forest models are beneficial because they are easy to work with our given CSV files and the dataframes that we are cleaning. This model does limit us as we continue working with it since it is hard to improve and optimize the model unless you change the data input.  During the preliminary data process, we were able to bin movie rating and type of show, and we also added dummy variables for three different genre columns allowing for the random forest algorithm to accurately predict the target column. 
 
+![image](https://user-images.githubusercontent.com/64279232/143799144-6e6a64d1-232d-4a28-abfc-9f53a6a17f07.png)
 
 ## Deliverable 2
 

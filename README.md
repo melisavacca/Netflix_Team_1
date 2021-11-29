@@ -82,9 +82,9 @@ We were able to determine that there is a correlation between number of votes an
 
 ![image](https://user-images.githubusercontent.com/64279232/143794901-3b55e605-1b0f-4252-af26-0e28b2d5df3a.png)
 
-We were also able to determine that overall, tv shows are rated slightly higher than movies.  See bar graph below:
+We were also able to determine that overall, tv shows are rated slightly higher than movies.  See chart below:
 
-![image](https://user-images.githubusercontent.com/64279232/143794946-ff4b20b6-020e-45ce-95f4-33149de8aae9.png)
+![image](https://user-images.githubusercontent.com/64279232/143799561-d7eece0e-f1c6-4808-b835-6e8d0c45364b.png)
 
 Next, we were able to observe how countries' ratings compare with a visual and interative map of the world. We also were able to identify the top 15 rated countries and lowest 15 rated countries.  Through both the map and bar graph, we can see that Vietnam has the highest average rating and Bulgaria has the lowest average rating. See below:
 

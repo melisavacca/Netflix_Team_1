@@ -95,8 +95,9 @@ The bubble chart below dives deep into analyzing genres.  Because some tv shows/
 
 ![image](https://user-images.githubusercontent.com/64279232/143797188-4b444069-a52d-4a67-ac3b-22cc6a10169e.png)
 
+Since documentaries have become more common on Netflix over the past few years, we wanted to see how their ratings compared to other highly watched genres.  We compared the average ratings of documentaries to action, comedy, and crime, and we found that documentaries have the highest average rating of these categories.  See below:
 
-
+![image](https://user-images.githubusercontent.com/64279232/143798363-809b7afe-f476-40cb-a73f-4be8b17062ab.png)
 
 
 

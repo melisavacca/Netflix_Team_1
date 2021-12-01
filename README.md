@@ -81,25 +81,30 @@ Based on the image above, we can see that Lucifer is a fantasy, and it is not li
 
 We were able to determine that there is a correlation between number of votes and rating.  The main takeaway from this analysis is tv shows/movies with the highest number of votes also show high ratings.  There were no examples of tv shows/movies that had more than 400,000 votes and a score lower than 7/10.  See this scatterplot below:
 
-![image](https://user-images.githubusercontent.com/64279232/143794901-3b55e605-1b0f-4252-af26-0e28b2d5df3a.png)
+![image](https://user-images.githubusercontent.com/64279232/144324793-cd652711-1946-425b-a91b-810139895ece.png)
 
 We were also able to determine that overall, tv shows are rated slightly higher than movies.  See chart below:
 
-![image](https://user-images.githubusercontent.com/64279232/143799561-d7eece0e-f1c6-4808-b835-6e8d0c45364b.png)
+![image](https://user-images.githubusercontent.com/64279232/144324861-85bf5c83-a992-4b0b-8c41-22267b87818c.png)
 
-Next, we were able to observe how countries' ratings compare with a visual and interative map of the world. We also were able to identify the top 15 rated countries and lowest 15 rated countries.  Through both the map and bar graph, we can see that Vietnam has the highest average rating and Bulgaria has the lowest average rating. See below:
+Next, we were able to observe how countries' ratings compare with a visual and interative map of the world. Through this map, we can see that Vietnam has the highest average rating (8.7) and Bulgaria has the lowest (4.4)/
 
-![image](https://user-images.githubusercontent.com/64279232/143795718-89e7a878-3573-49c3-94cb-40cf6ffed6c1.png)
-![image](https://user-images.githubusercontent.com/64279232/143795786-a078ec5d-34ac-4ec0-a467-4d1f7d063401.png)
-![image](https://user-images.githubusercontent.com/64279232/143795832-60abb799-f570-4163-8d8a-ee8609dbf515.png)
+![image](https://user-images.githubusercontent.com/64279232/144325062-51d98eb6-9dd2-41b1-a885-2cdc5eeac443.png)
+
+We decided to look further into these ratings, and we only focused on countries that had a high number of votes since countries like Vietnam and Bulgaria did not.  The bar graphs below show 22 countries that have over 50,000 votes and their corresponding ratings.  When focusing on this smaller dataset, Ireland has the highest rating (7.6).
+
+![image](https://user-images.githubusercontent.com/64279232/144325706-1e11c6d6-adaf-4c8a-8a2d-c6c1b7872b77.png)
+
 
 The bubble chart below dives deep into analyzing genres.  Because some tv shows/movies are categorized under one single genre and others two, or three, it is difficult to graph these results cohesively.  We also didn't want to focus on genres with very little data that may skew the results.  This bubble chart does a great job of showing genres that have high/low ratings, but also how often they are represented in the dataset.  For example, tv shows in the drama/horror/thriller category are very popular and have an average rating of 8.067, which is quite high.  This bubble chart is interactive and can be swtiched between tv shows and movies, or both combined. See below:
 
-![image](https://user-images.githubusercontent.com/64279232/143797188-4b444069-a52d-4a67-ac3b-22cc6a10169e.png)
+![image](https://user-images.githubusercontent.com/64279232/144325873-7ed133bf-c05b-4c2f-b5db-b86ccd632d2f.png)
 
-Since documentaries have become more common on Netflix over the past few years, we wanted to see how their ratings compared to other highly watched genres.  We compared the average ratings of documentaries to action, comedy, and crime, and we found that documentaries have the highest average rating of these categories.  See below:
 
-![image](https://user-images.githubusercontent.com/64279232/143798363-809b7afe-f476-40cb-a73f-4be8b17062ab.png)
+Since documentaries have become more common on Netflix over the past few years, we wanted to see how their ratings compared to other highly watched genres.  We compared the average ratings of documentaries to the most common genres, and we found that documentaries have the highest average rating of these categories.  See below:
+
+![image](https://user-images.githubusercontent.com/64279232/144326027-ffcaca6c-4e84-4854-b8d2-d6cbb96084b3.png)
+
 
 
 
